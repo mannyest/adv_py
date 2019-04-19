@@ -1,0 +1,15 @@
+Hello, {{ name }}.
+
+Please say it loudly:  {{ compliment.upper() }}!
+
+Must I tell you:
+{% for item in pronouncements %}
+   {{ item }}{% endfor %}
+
+Or {{ pronouncements[0] }}?
+
+{% if not reconciled: %}
+  We have work left to do.
+{% else %}
+  I'm glad we worked that out.
+{% endif %}

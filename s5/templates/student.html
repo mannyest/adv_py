@@ -1,0 +1,27 @@
+<HTML>
+  <HEAD>
+    <TITLE>Student {{ stu.id }}</TITLE>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/custom.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+  </HEAD>
+  <BODY>
+    <div class="container">
+    <H2>{{stu.id}}</H2>
+    <H4>{{stu.city}}, {{stu.state}}</H4>
+
+    Student <B>{{stu.id}}</B> can be reached at the following address:
+
+    <table border="1" align="center">
+      <tr><td>
+        {{ stu.address }}<br>
+        {{ stu.city }}, {{ stu.state }} {{ stu.zip}}
+      </td></tr>
+    </table>
+
+    </div>
+  </BODY>
+</HTML>
+

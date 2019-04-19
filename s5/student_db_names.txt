@@ -1,0 +1,8 @@
+id:fname:lname:address:city:state:zip
+jk43:John:Kane:23 Marfield Lane:Plainview:NY:10024
+axe99:Alfred:Everbooty:315 W. 115th Street, Apt. 11B:New York:NY:10027
+jab44:Janine:Brillo:23 Rivington Street, Apt. 3R:New York:NY:10002
+ak9:Axel:Krumpet:234 Main Street:Philadelphia:PA:08990
+ap172:Anton:Perillo:19 Boxer Rd.:New York:NY:10005
+jb23:Jaundice:Boto:115 Karas Dr.:Jersey City:NJ:07127
+jb29:Jessica:Best:119 Xylon Dr.:Jersey City:NJ:07127
