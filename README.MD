@@ -1,5 +1,6 @@
-Homeworks and class assignments from NYU Advance Python course May - August 2018
-Professor: David Blaikie 
+Homeworks and class assignments from NYU Advance Python course 
+- May - August 2018
+- Professor: David Blaikie 
 
 S = Sessions hw = Homework cl = in-class 
 
